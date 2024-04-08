@@ -6,3 +6,6 @@
 * Docs: https://minitorch.github.io/
 
 * Overview: https://minitorch.github.io/module0.html
+
+
+<img src="Screenshot 2024-04-08 at 12.00.47 AM.png">
